@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/863779/how-to-add-line-breaks-to-an-html-textarea
+
+https://stackoverflow.com/questions/717224/how-to-get-selected-text-in-textarea
+
+detect html tags usgin Tegex
+https://stackoverflow.com/questions/5002111/how-to-strip-html-tags-from-string-in-javascript
+/<\/?[^>]+(>|$)/g
+
+https://www.quora.com/How-do-I-Display-HTML-code-on-Web-Page
